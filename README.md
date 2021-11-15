@@ -1,14 +1,12 @@
 ## Hello World App - Pre-work
 
 ### App Description
-`TODO://` This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.n
+This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.n
 
 ### App Walk-though
-`TODO://`
 
-<img src="https://imgur.com/a/vUoYP8j" width=200><br>
+<img src="https://i.imgur.com/kAewXPl.gif" width=200><br>
 
-`TODO://`
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
